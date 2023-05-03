@@ -12,8 +12,6 @@
 
 ## convertHtmlToPdf - Converting html to pdf using LibreOffice
 
-## convertDocToHtml - Converting doc to html using Apache POI
-
 ## Request example:
 
 ```
